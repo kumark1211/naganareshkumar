@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naganareshkumar
+- 👋 Hi, I’m @nk
 - 👀 I’m interested in DNA computing
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on Python, R, Deep Learning
